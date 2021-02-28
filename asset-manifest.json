@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mohammad-naimur-rahman/simple-todo-react.git/static/css/main.915686e3.chunk.css",
+    "main.js": "/mohammad-naimur-rahman/simple-todo-react.git/static/js/main.ca6ecf25.chunk.js",
+    "main.js.map": "/mohammad-naimur-rahman/simple-todo-react.git/static/js/main.ca6ecf25.chunk.js.map",
+    "runtime-main.js": "/mohammad-naimur-rahman/simple-todo-react.git/static/js/runtime-main.f5eaa4e7.js",
+    "runtime-main.js.map": "/mohammad-naimur-rahman/simple-todo-react.git/static/js/runtime-main.f5eaa4e7.js.map",
+    "static/js/2.2b538dd6.chunk.js": "/mohammad-naimur-rahman/simple-todo-react.git/static/js/2.2b538dd6.chunk.js",
+    "static/js/2.2b538dd6.chunk.js.map": "/mohammad-naimur-rahman/simple-todo-react.git/static/js/2.2b538dd6.chunk.js.map",
+    "static/js/3.1fb51886.chunk.js": "/mohammad-naimur-rahman/simple-todo-react.git/static/js/3.1fb51886.chunk.js",
+    "static/js/3.1fb51886.chunk.js.map": "/mohammad-naimur-rahman/simple-todo-react.git/static/js/3.1fb51886.chunk.js.map",
+    "index.html": "/mohammad-naimur-rahman/simple-todo-react.git/index.html",
+    "static/css/main.915686e3.chunk.css.map": "/mohammad-naimur-rahman/simple-todo-react.git/static/css/main.915686e3.chunk.css.map",
+    "static/js/2.2b538dd6.chunk.js.LICENSE.txt": "/mohammad-naimur-rahman/simple-todo-react.git/static/js/2.2b538dd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5eaa4e7.js",
+    "static/js/2.2b538dd6.chunk.js",
+    "static/css/main.915686e3.chunk.css",
+    "static/js/main.ca6ecf25.chunk.js"
+  ]
+}
